@@ -30,4 +30,7 @@ CNC should be simple, scriptable, and open. stepMill is a step in that direction
 
 ## License
 
-stepMill is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
+**stepMill** is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
+
+This project remains free and open-source. Any modifications or redistributions must also remain open under the same license.
+
