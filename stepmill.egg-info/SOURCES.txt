@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+stepmill/__init__.py
+stepmill.egg-info/PKG-INFO
+stepmill.egg-info/SOURCES.txt
+stepmill.egg-info/dependency_links.txt
+stepmill.egg-info/entry_points.txt
+stepmill.egg-info/not-zip-safe
+stepmill.egg-info/requires.txt
+stepmill.egg-info/top_level.txt
+stepmill/core/__init__.py
+stepmill/core/gcode_generator.py
+stepmill/core/geometry.py
+stepmill/ui/__init__.py
+stepmill/ui/qt_viewer.py

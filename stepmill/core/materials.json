@@ -1,0 +1,51 @@
+{
+    "Aluminum 6061": {
+      "surface_speed_m_per_min": 250,
+      "feed_per_rev_mm": 0.2,
+      "depth_of_cut_mm": 1.5,
+      "coolant": "flood"
+    },
+    "Brass": {
+      "surface_speed_m_per_min": 200,
+      "feed_per_rev_mm": 0.15,
+      "depth_of_cut_mm": 1.2,
+      "coolant": "dry"
+    },
+    "Acetal (Delrin)": {
+      "surface_speed_m_per_min": 300,
+      "feed_per_rev_mm": 0.25,
+      "depth_of_cut_mm": 2.0,
+      "coolant": "air"
+    },
+    "Copper": {
+      "surface_speed_m_per_min": 150,
+      "feed_per_rev_mm": 0.1,
+      "depth_of_cut_mm": 1.0,
+      "coolant": "flood"
+    },
+    "Steel 1045": {
+      "surface_speed_m_per_min": 120,
+      "feed_per_rev_mm": 0.1,
+      "depth_of_cut_mm": 1.0,
+      "coolant": "flood"
+    },
+    "Stainless Steel 304": {
+      "surface_speed_m_per_min": 90,
+      "feed_per_rev_mm": 0.08,
+      "depth_of_cut_mm": 0.8,
+      "coolant": "flood"
+    },
+    "Titanium Grade 5": {
+      "surface_speed_m_per_min": 60,
+      "feed_per_rev_mm": 0.06,
+      "depth_of_cut_mm": 0.6,
+      "coolant": "high-pressure"
+    },
+    "Cast Iron": {
+      "surface_speed_m_per_min": 80,
+      "feed_per_rev_mm": 0.12,
+      "depth_of_cut_mm": 1.2,
+      "coolant": "dry"
+    }
+  }
+  

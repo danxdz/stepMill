@@ -1,0 +1,2 @@
+[console_scripts]
+stepmill = stepmill.ui.qt_viewer:main

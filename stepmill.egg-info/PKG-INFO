@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: stepmill
+Version: 0.1.0
+Summary: Open-source CAM tool for CNC milling and turning
+Author: Your Name
+License: GPLv3
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pyqt5
+Requires-Dist: pyqtgraph
